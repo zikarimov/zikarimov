@@ -1,42 +1,39 @@
-# Привет, я Зуфар! 👋
+# Hi, I'm Zufar! 👋  
 
-DevOps-инженер, увлеченный построением эффективной и отказоустойчивой инфраструктуры. Специализируюсь на автоматизации процессов разработки, внедрении CI/CD и настройке комплексного мониторинга. Постоянно исследую новые инструменты и практики, чтобы создавать надежные и масштабируемые решения
+I'm a DevOps Engineer passionate about building efficient and fault-tolerant infrastructure. I specialize in automating development processes, implementing CI/CD, and setting up comprehensive monitoring. Constantly exploring new tools and practices to create reliable and scalable solutions.  
 
-## 🚀 Обо мне
+## � About Me  
 
-- 🔭 В настоящее время работаю DevOps-инженером, развивая свои навыки в области CI/CD и инфраструктуры.
-- 🌐 Активно изучаю и применяю практики DevOps для улучшения процессов разработки и деплоя.
-- 💡 Стремлюсь к постоянному совершенствованию в области инфраструктуры как кода и культуры DevOps.
-- 🛠️ Мне нравится автоматизировать рутинные задачи и оптимизировать рабочие процессы.
+- 🔭 Currently working as a DevOps Engineer, improving my skills in CI/CD and infrastructure  
+- 🌐 Actively learning and applying DevOps practices to enhance workflows  
+- 💡 Striving to improve in Infrastructure as Code (IaC) and DevOps culture  
+- 🛠️ Love automating routine tasks and optimizing processes  
 
-## 🛠 Мой технический стек
+## 🛠 Tech Stack  
 
-**Основные технологии:**
-- CI/CD: GitHub Actions, TeamCity
-- Мониторинг: Prometheus, Grafana
-- Контейнеризация: Docker
-- Базы данных: PostgreSQL
-- Системы управления версиями: Git
-- Веб-серверы: Nginx (обратный прокси, балансировка нагрузки)
-- Виртуализация: Vagrant, VMware/Hyper-V
-- ОС: CentOS, Ubuntu
-- Сетевые технологии и безопасность
+**Core Technologies:**  
+- CI/CD: GitHub Actions, TeamCity  
+- Monitoring: Prometheus, Grafana  
+- Containerization: Docker  
+- Databases: PostgreSQL  
+- Version Control: Git  
+- Web Servers: Nginx  
+- Virtualization: Vagrant, VMware/Hyper-V  
+- OS: CentOS, Ubuntu  
 
-**Инструменты:**
-[![Мои навыки](https://skillicons.dev/icons?i=githubactions,git,docker,linux,nginx,postgres,grafana,prometheus,bash,vim)](https://skillicons.dev)
+**Tools:**  
+[![My Skills](https://skillicons.dev/icons?i=githubactions,git,docker,linux,nginx,postgres,grafana,prometheus,bash,vim)](https://skillicons.dev)  
 
-## 🌱 Сейчас изучаю
+## 🌱 Learning  
 
-- 🚀 Углубление в Kubernetes для оркестрации контейнеров
-- Terraform для управления инфраструктурой
-- Освоение Ansible для автоматизации настройки систем
-- CI/CD пайплайны для повышения эффективности процессов развертывания
-- Облачные платформы (AWS/GCP)
+- Kubernetes for container orchestration  
+- Terraform for IaC  
+- Ansible for automation  
+- Cloud platforms (AWS/GCP)  
 
-## 📫 Как со мной связаться
+## 📫 Contact  
 
-- Мой [LinkedIn](www.linkedin.com/in/zufarkarimov)
+- [LinkedIn](https://www.linkedin.com/in/zufarkarimov)  
 
----
-
-Спасибо за посещение моего профиля! Давайте соединимся и вместе будем исследовать увлекательный мир DevOps и технологий. 🚀
+---  
+Let's connect and build amazing things! 🚀
